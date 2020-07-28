@@ -1,0 +1,17 @@
+{
+  "name": "image-lambda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "file-type": "^14.6.2",
+    "heic-convert": "^1.2.2",
+    "sharp": "^0.25.4"
+  }
+}
