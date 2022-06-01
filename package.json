@@ -12,6 +12,6 @@
   "dependencies": {
     "file-type": "^14.6.2",
     "heic-convert": "^1.2.2",
-    "sharp": "^0.25.4"
+    "sharp": "^0.30.5"
   }
 }
